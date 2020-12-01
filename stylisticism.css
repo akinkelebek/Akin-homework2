@@ -133,8 +133,6 @@ footer {
 .button:hover {
     cursor: crosshair;
     box-shadow: 58px 48px 35px 38px rgba(217,0,0,0.54);
-    -webkit-box-shadow: 58px 48px 35px 38px rgba(217,0,0,0.54);
-    -moz-box-shadow: 58px 48px 35px 38px rgba(217,0,0,0.54);
 }
 
 @media (min-width: 576px) {
