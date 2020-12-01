@@ -211,6 +211,6 @@ footer {
         display: block;
     }
     .button:hover {
-        scale: 2;
+        transform: scale(2);
     }
 }
